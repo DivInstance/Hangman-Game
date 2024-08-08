@@ -3,7 +3,7 @@
 Overview
 Hangman is a classic word-guessing game where players attempt to deduce a hidden word by guessing letters. The game is played by one player who tries to guess the letters in a word before running out of allowed attempts.
 
-How to Play
+##How to Play
 
 1.Game Start:
   a.The player is greeted and prompted to enter their name.
@@ -24,7 +24,7 @@ How to Play
 5.Development Using Python
   The Hangman game was developed using Python with the following key components:
 
-  Imports and Setup:
+  ##Imports and Setup:
 
   a.The random module is used to select a random word from a predefined list.
   b.The sys module is used to exit the game if necessary.
